@@ -12,6 +12,7 @@
 		390E4E6F2021D51900C5B0C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390E4E6D2021D51900C5B0C6 /* Main.storyboard */; };
 		390E4E712021D51900C5B0C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 390E4E702021D51900C5B0C6 /* Assets.xcassets */; };
 		390E4E742021D51900C5B0C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390E4E722021D51900C5B0C6 /* LaunchScreen.storyboard */; };
+		390E4E7C2021D61300C5B0C6 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 390E4E7B2021D61300C5B0C6 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		390E4E702021D51900C5B0C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		390E4E732021D51900C5B0C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		390E4E752021D51900C5B0C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		390E4E7B2021D61300C5B0C6 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				390E4E692021D51900C5B0C6 /* AppDelegate.swift */,
 				390E4E6B2021D51900C5B0C6 /* ViewController.swift */,
+				390E4E7B2021D61300C5B0C6 /* hustle-on.wav */,
 				390E4E6D2021D51900C5B0C6 /* Main.storyboard */,
 				390E4E702021D51900C5B0C6 /* Assets.xcassets */,
 				390E4E722021D51900C5B0C6 /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				390E4E7C2021D61300C5B0C6 /* hustle-on.wav in Resources */,
 				390E4E742021D51900C5B0C6 /* LaunchScreen.storyboard in Resources */,
 				390E4E712021D51900C5B0C6 /* Assets.xcassets in Resources */,
 				390E4E6F2021D51900C5B0C6 /* Main.storyboard in Resources */,
